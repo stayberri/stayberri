@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi, I'm Ket 👋
+- 🌐 Hobby programmer with an interest in web design.
+- 🌱 Currently learning HTML, JavaScript, and CSS.
+- ⚡️ Pronouns: she/they
+- 🪐 Age: 21
+### Projects prior to 2024 are archives of my teenage years and should not be considered part of my current skill set.
+
 
 <!--
 **stayberri/stayberri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
